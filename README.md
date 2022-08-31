@@ -5,6 +5,8 @@ https://www.youtube.com/watch?v=O7cF8-bz2jE
 
 ##
 userdata-with-dynamodb.sh 
+userdata.sh
+
 #!/bin/bash
 
 # Enable logs
